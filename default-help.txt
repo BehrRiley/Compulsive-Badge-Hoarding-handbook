@@ -58,7 +58,7 @@ Category Combat All
 
 	Item Damage All
 	{
-		Text <&Damage and Healing numbers appear above the heads of villains and heroes. The number's color indicates whether the value is healing or damage ñ and its source. 
+		Text <&Damage and Healing numbers appear above the heads of villains and heroes. The number's color indicates whether the value is healing or damage ‚Äì and its source. 
 				<br><b><color lightblue>Over the heads of others:</b></color>
 					<br><color orangered>Red/orange</color> damage done by the player
 					<br><color green>Green<color> healing done by the player
@@ -66,7 +66,7 @@ Category Combat All
 				<br><b><color lightblue>Over the player's hero:</b></color>
 					<br><color red>Red</color> damage
 					<br><color green>Green</color> healing&>
-		V_Text <&Damage and Healing numbers appear above the heads of villains and enemies. The number's color indicates whether the value is healing or damage ñ and its source. 
+		V_Text <&Damage and Healing numbers appear above the heads of villains and enemies. The number's color indicates whether the value is healing or damage ‚Äì and its source. 
 				<br><b><color lightblue>Over the heads of others:</b></color>
 					<br><color orangered>Red/orange</color> damage done by the player
 					<br><color green>Green<color> healing done by the player
@@ -74,7 +74,7 @@ Category Combat All
 				<br><b><color lightblue>Over the player's villain:</b></color>
 					<br><color red>Red</color> damage
 					<br><color green>Green</color> healing&>
-		P_Text <&Damage and Healing numbers appear above the heads of enemies. The number's color indicates whether the value is healing or damage ñ and its source. 
+		P_Text <&Damage and Healing numbers appear above the heads of enemies. The number's color indicates whether the value is healing or damage ‚Äì and its source. 
 				<br><b><color lightblue>Over the heads of others:</b></color>
 					<br><color orangered>Red/orange</color> damage done by the player
 					<br><color green>Green<color> healing done by the player
@@ -177,17 +177,17 @@ Category Combat All
 	{
 		Text <&Villains are divided into a number of <color lightblue>Ranks</color>. Each <color lightblue>Rank</color> differs in power. The <color lightblue>Ranks</color> are as follows:
 			<br>		
-				<br><color lightblue>Underling</color> ñ These are small annoyances to a hero and can challenge one only in numbers. It takes 5 or more Underlings to threaten a player.
+				<br><color lightblue>Underling</color> ‚Äì These are small annoyances to a hero and can challenge one only in numbers. It takes 5 or more Underlings to threaten a player.
 			<br>		
-				<br><color lightblue>Minion</color> ñ These are extremely common in every Villain Group. Typically, it takes 3 Minions to challenge a hero, though this number increases as a hero's Security Level rises.
+				<br><color lightblue>Minion</color> ‚Äì These are extremely common in every Villain Group. Typically, it takes 3 Minions to challenge a hero, though this number increases as a hero's Security Level rises.
 			<br>	
-				<br><color lightblue>Lieutenant</color> ñ A Lieutenant is almost powerful enough to challenge a single hero, though he usually needs some minions alongside him.
+				<br><color lightblue>Lieutenant</color> ‚Äì A Lieutenant is almost powerful enough to challenge a single hero, though he usually needs some minions alongside him.
 			<br>
-				<br><color lightblue>Boss</color> ñ Bosses are mighty foes and should not be taken lightly. They can defeat lone heroes with no difficulty and can prove a challenge for two or three.
+				<br><color lightblue>Boss</color> ‚Äì Bosses are mighty foes and should not be taken lightly. They can defeat lone heroes with no difficulty and can prove a challenge for two or three.
 			<br>
-				<br><color lightblue>Archvillain</color> ñ Arch Villains are the evil masterminds and leaders of the city's many Villain Groups. They are as powerful as five or six heroes combined.
+				<br><color lightblue>Archvillain</color> ‚Äì Arch Villains are the evil masterminds and leaders of the city's many Villain Groups. They are as powerful as five or six heroes combined.
 			<br>
-				<br><color lightblue>Monster</color> ñ This Rank covers the various giant creatures that lurk the streets of Paragon City - and its mysterious depths. A Monster is the equal of a full team of eight heroes. &>
+				<br><color lightblue>Monster</color> ‚Äì This Rank covers the various giant creatures that lurk the streets of Paragon City - and its mysterious depths. A Monster is the equal of a full team of eight heroes. &>
 	}
 
 
@@ -207,17 +207,17 @@ Category Combat All
 	{
 		Text <&Villains are divided into a number of <color lightblue>Ranks</color>. Each <color lightblue>Rank</color> differs in power. The <color lightblue>Ranks</color> are as follows:
 			<br>		
-				<br><color lightblue>Underling</color> ñ These are small annoyances to a villain and can challenge one only in numbers. It takes 5 or more Underlings to threaten a player.
+				<br><color lightblue>Underling</color> ‚Äì These are small annoyances to a villain and can challenge one only in numbers. It takes 5 or more Underlings to threaten a player.
 			<br>		
-				<br><color lightblue>Minion</color> ñ These are extremely common in every Villain Group. Typically, it takes 3 Minions to challenge a villain, though this number increases as a villain's Threat Level rises.
+				<br><color lightblue>Minion</color> ‚Äì These are extremely common in every Villain Group. Typically, it takes 3 Minions to challenge a villain, though this number increases as a villain's Threat Level rises.
 			<br>	
-				<br><color lightblue>Lieutenant</color> ñ A Lieutenant is almost powerful enough to challenge a single villain, though he usually needs some minions alongside him.
+				<br><color lightblue>Lieutenant</color> ‚Äì A Lieutenant is almost powerful enough to challenge a single villain, though he usually needs some minions alongside him.
 			<br>
-				<br><color lightblue>Boss</color> ñ Bosses are mighty foes and should not be taken lightly. They can defeat lone villains with no difficulty and can prove a challenge for two or three.
+				<br><color lightblue>Boss</color> ‚Äì Bosses are mighty foes and should not be taken lightly. They can defeat lone villains with no difficulty and can prove a challenge for two or three.
 			<br>
 				<br><color lightblue>Hero</color>Heroes are the leaders of the many Hero Groups that plague the Rogue Isles. They are as powerful as five or six villains combined.
 			<br>
-				<br><color lightblue>Monster</color> ñ This Rank covers the various giant creatures that lurk the streets of the Rogue Isles- and its mysterious depths. A Monster is the equal of a full team of eight villains, sometimes more. &>
+				<br><color lightblue>Monster</color> ‚Äì This Rank covers the various giant creatures that lurk the streets of the Rogue Isles- and its mysterious depths. A Monster is the equal of a full team of eight villains, sometimes more. &>
 	}
 
 
@@ -521,8 +521,8 @@ Category Nav All
 	{
 		Text <&Heroes can move from zone to zone through the intra-city Light Rail system. Monorails connect one <color lightblue>City Zone</color> to another <color lightblue>City Zone</color>. A hero can choose to go to any station along that Light Rail line.
 						<br><br>There are two Light Rail lines that form concentric loops around the city. The lines, and the <color lightblue>City Zones</color> they connect are as follows:
-						<br><color yellow>Yellow</color>: Atlas Park ñ Steel Canyon ñ Kings Row ñ Skyway City
-						<br><color green>Green</color>: Independence Port ñ Brickstown ñ Talos Island ñ Steel Canyon&>
+						<br><color yellow>Yellow</color>: Atlas Park ‚Äì Steel Canyon ‚Äì Kings Row ‚Äì Skyway City
+						<br><color green>Green</color>: Independence Port ‚Äì Brickstown ‚Äì Talos Island ‚Äì Steel Canyon&>
 	}
 
 	Item "CTA Subway" PraetorianOnly
@@ -648,66 +648,66 @@ Category Powers All
 	{
 		Text <&Powers in the <color lightblue>Primary</color> and <color lightblue>Secondary Power Sets</color> open up over time. As a player gains <color lightblue>Security Levels</color>, he will gain access to more powers in each set. 
 						<br>The powers in the <color lightblue>Primary Power Set open as follows:</color>
-						<br>Power #1 ñ 1st level
-						<br>Power #2 ñ 1st level
-						<br>Power #3 ñ 2nd level
-						<br>Power #4 ñ 6th level
-						<br>Power #5 ñ 8th level
-						<br>Power #6 ñ 12th level
-						<br>Power #7 ñ 18th level
-						<br>Power #8 ñ 26th level
-						<br>Power #9 ñ 35th level
+						<br>Power #1 ‚Äì 1st level
+						<br>Power #2 ‚Äì 1st level
+						<br>Power #3 ‚Äì 2nd level
+						<br>Power #4 ‚Äì 6th level
+						<br>Power #5 ‚Äì 8th level
+						<br>Power #6 ‚Äì 12th level
+						<br>Power #7 ‚Äì 18th level
+						<br>Power #8 ‚Äì 26th level
+						<br>Power #9 ‚Äì 35th level
 						<br>The powers in the <color lightblue>Secondary Power</color> Set open as follows:
-						<br>Power #1 ñ 1st level
-						<br>Power #2 ñ 2nd level
-						<br>Power #3 ñ 4th level
-						<br>Power #4 ñ 10th level
-						<br>Power #5 ñ 16th level
-						<br>Power #6 ñ 20th level
-						<br>Power #7 ñ 28th level
-						<br>Power #8 ñ 35th level
-						<br>Power #9 ñ 38th level&>
+						<br>Power #1 ‚Äì 1st level
+						<br>Power #2 ‚Äì 2nd level
+						<br>Power #3 ‚Äì 4th level
+						<br>Power #4 ‚Äì 10th level
+						<br>Power #5 ‚Äì 16th level
+						<br>Power #6 ‚Äì 20th level
+						<br>Power #7 ‚Äì 28th level
+						<br>Power #8 ‚Äì 35th level
+						<br>Power #9 ‚Äì 38th level&>
 		V_Text <&Powers in the <color lightblue>Primary</color> and <color lightblue>Secondary Power Sets</color> open up over time. As a player gains <color lightblue>Threat Levels</color>, he will gain access to more powers in each set. 
 						<br>The powers in the <color lightblue>Primary Power Set open as follows:</color>
-						<br>Power #1 ñ 1st level
-						<br>Power #2 ñ 1st level
-						<br>Power #3 ñ 2nd level
-						<br>Power #4 ñ 6th level
-						<br>Power #5 ñ 8th level
-						<br>Power #6 ñ 12th level
-						<br>Power #7 ñ 18th level
-						<br>Power #8 ñ 26th level
-						<br>Power #9 ñ 35th level
+						<br>Power #1 ‚Äì 1st level
+						<br>Power #2 ‚Äì 1st level
+						<br>Power #3 ‚Äì 2nd level
+						<br>Power #4 ‚Äì 6th level
+						<br>Power #5 ‚Äì 8th level
+						<br>Power #6 ‚Äì 12th level
+						<br>Power #7 ‚Äì 18th level
+						<br>Power #8 ‚Äì 26th level
+						<br>Power #9 ‚Äì 35th level
 						<br>The powers in the <color lightblue>Secondary Power</color> Set open as follows:
-						<br>Power #1 ñ 1st level
-						<br>Power #2 ñ 2nd level
-						<br>Power #3 ñ 4th level
-						<br>Power #4 ñ 10th level
-						<br>Power #5 ñ 16th level
-						<br>Power #6 ñ 20th level
-						<br>Power #7 ñ 28th level
-						<br>Power #8 ñ 35th level
-						<br>Power #9 ñ 38th level&>
+						<br>Power #1 ‚Äì 1st level
+						<br>Power #2 ‚Äì 2nd level
+						<br>Power #3 ‚Äì 4th level
+						<br>Power #4 ‚Äì 10th level
+						<br>Power #5 ‚Äì 16th level
+						<br>Power #6 ‚Äì 20th level
+						<br>Power #7 ‚Äì 28th level
+						<br>Power #8 ‚Äì 35th level
+						<br>Power #9 ‚Äì 38th level&>
 	}
 
 
 	Item "Power Descriptions" All
 	{
-		Text <&The name of a power appears if a player mouses over its icon. A player can read an abbreviated summary of a power's effects by right clicking on the icon. To read a more detailed description, a player can right click the power icon, then select ìInfo.î
+		Text <&The name of a power appears if a player mouses over its icon. A player can read an abbreviated summary of a power's effects by right clicking on the icon. To read a more detailed description, a player can right click the power icon, then select ‚ÄúInfo.‚Äù
 						<br>
 						<br>The following are the abbreviations of various Power Effects.
-						<br><color lightblue><b> - </color>:</b> The power negatively affects the attribute. A ìdebuff.î
-						<br><color lightblue><b>+</color>:</b> The power boosts the attribute. A ìbuff.î
-						<br><color lightblue><b>ACC</color>:</b> ìAccuracy.î The power affects the chance to hit.
+						<br><color lightblue><b> - </color>:</b> The power negatively affects the attribute. A ‚Äúdebuff.‚Äù
+						<br><color lightblue><b>+</color>:</b> The power boosts the attribute. A ‚Äúbuff.‚Äù
+						<br><color lightblue><b>ACC</color>:</b> ‚ÄúAccuracy.‚Äù The power affects the chance to hit.
 						<br><color lightblue><b>Ally</color>:</b> The power affects only other heroes.
-						<br><color lightblue><b>AOE</color>:</b> ìArea of Effect.î The power affects everything within a certain range of the target. 
-						<br><color lightblue><b>Auto</color>:</b> ìAutomatic.î The power is always on. It has no Endurance cost.
+						<br><color lightblue><b>AOE</color>:</b> ‚ÄúArea of Effect.‚Äù The power affects everything within a certain range of the target. 
+						<br><color lightblue><b>Auto</color>:</b> ‚ÄúAutomatic.‚Äù The power is always on. It has no Endurance cost.
 						<br><color lightblue><b>Cone</color>:</b> The power affects everything in a conical area.
-						<br><color lightblue><b>DEF</color>:</b> ìDefense.î The power affects the chance that attacks will hit the hero.
+						<br><color lightblue><b>DEF</color>:</b> ‚ÄúDefense.‚Äù The power affects the chance that attacks will hit the hero.
 						<br><color lightblue><b>Disorient</color>:</b> Affected targets can move, but cannot use powers for a time.
-						<br><color lightblue><b>DMG</color>:</b> ìDamage.î The power deals damage.
-						<br><color lightblue><b>DoT</color>:</b> ìDamage Over Time.î The power continues to deal damage over a period of time.
-						<br><color lightblue><b>End</color>:</b> ìEndurance.î The power affects Endurance.
+						<br><color lightblue><b>DMG</color>:</b> ‚ÄúDamage.‚Äù The power deals damage.
+						<br><color lightblue><b>DoT</color>:</b> ‚ÄúDamage Over Time.‚Äù The power continues to deal damage over a period of time.
+						<br><color lightblue><b>End</color>:</b> ‚ÄúEndurance.‚Äù The power affects Endurance.
 						<br><color lightblue><b>Foe</color>:</b> The power affects only enemies.
 						<br><color lightblue><b>Heal</color>:</b> The power provides Hit Points.
 						<br><color lightblue><b>Hold</color>:</b> Affected targets can't move or use powers.
@@ -717,12 +717,12 @@ Category Powers All
 						<br><color lightblue><b>Knockdown</color>:</b> Targets fall down and must take time to get up.
 						<br><color lightblue><b>Location</color>:</b> The power must have a target location. 
 						<br><color lightblue><b>Melee</color>:</b> The power is for use at close range (15 feet or less).
-						<br><color lightblue><b>PBAOE</color>:</b> ìPlayer based Area Of Effect.î The power does not need to be targeted. When activated, it affects everything within a certain radius of the hero.
+						<br><color lightblue><b>PBAOE</color>:</b> ‚ÄúPlayer based Area Of Effect.‚Äù The power does not need to be targeted. When activated, it affects everything within a certain radius of the hero.
 						<br><color lightblue><b>Ranged</color>:</b> The power can be used at a distance.
 						<br><color lightblue><b>Recharge</color>:</b> After activation, powers must recharge fully before being used again. 
 						<br><color lightblue><b>Recovery</color>:</b> The power affects the rate at which targets recover Endurance.
-						<br><color lightblue><b>RES</color>: </b>ìResistance.î The power decreases the effect of specified types of damage.
-						<br><color lightblue><b>Rez</color>:</b> ìResurrect.î The power resurrects heroes.
+						<br><color lightblue><b>RES</color>: </b>‚ÄúResistance.‚Äù The power decreases the effect of specified types of damage.
+						<br><color lightblue><b>Rez</color>:</b> ‚ÄúResurrect.‚Äù The power resurrects heroes.
 						<br><color lightblue><b>Self</color>: </b>The power affects only the hero.
 						<br><color lightblue><b>Sleep</color>: </b>Affected targets can't move or use powers for a time. They can be awakened by successful attacks.
 						<br><color lightblue><b>Slow</color>: </b>The power decreases the recharge rate of powers.
@@ -771,21 +771,21 @@ Category Powers All
 						<br><color lightblue><b>Team</color>: </b>The power affects only villains teamed up with the player.
 						<br><color lightblue><b>Terror</color>: </b>The power has a chance to frighten the enemy into fleeing.
 						<br><color lightblue><b>Toggle</color>: </b>The power remains on until deactivated. While on, the power drains Endurance.&>
-		P_Text <&The name of a power appears if a player mouses over its icon. A player can read an abbreviated summary of a power's effects by right clicking on the icon. To read a more detailed description, a player can right click the power icon, then select ìInfo.î
+		P_Text <&The name of a power appears if a player mouses over its icon. A player can read an abbreviated summary of a power's effects by right clicking on the icon. To read a more detailed description, a player can right click the power icon, then select ‚ÄúInfo.‚Äù
 						<br>
 						<br>The following are the abbreviations of various Power Effects.
-						<br><color lightblue><b> - </color>:</b> The power negatively affects the attribute. A ìdebuff.î
-						<br><color lightblue><b>+</color>:</b> The power boosts the attribute. A ìbuff.î
-						<br><color lightblue><b>ACC</color>:</b> ìAccuracy.î The power affects the chance to hit.
+						<br><color lightblue><b> - </color>:</b> The power negatively affects the attribute. A ‚Äúdebuff.‚Äù
+						<br><color lightblue><b>+</color>:</b> The power boosts the attribute. A ‚Äúbuff.‚Äù
+						<br><color lightblue><b>ACC</color>:</b> ‚ÄúAccuracy.‚Äù The power affects the chance to hit.
 						<br><color lightblue><b>Ally</color>:</b> The power affects only other allies.
-						<br><color lightblue><b>AOE</color>:</b> ìArea of Effect.î The power affects everything within a certain range of the target. 
-						<br><color lightblue><b>Auto</color>:</b> ìAutomatic.î The power is always on. It has no Endurance cost.
+						<br><color lightblue><b>AOE</color>:</b> ‚ÄúArea of Effect.‚Äù The power affects everything within a certain range of the target. 
+						<br><color lightblue><b>Auto</color>:</b> ‚ÄúAutomatic.‚Äù The power is always on. It has no Endurance cost.
 						<br><color lightblue><b>Cone</color>:</b> The power affects everything in a conical area.
-						<br><color lightblue><b>DEF</color>:</b> ìDefense.î The power affects the chance that attacks will hit the player.
+						<br><color lightblue><b>DEF</color>:</b> ‚ÄúDefense.‚Äù The power affects the chance that attacks will hit the player.
 						<br><color lightblue><b>Disorient</color>:</b> Affected targets can move, but cannot use powers for a time.
-						<br><color lightblue><b>DMG</color>:</b> ìDamage.î The power deals damage.
-						<br><color lightblue><b>DoT</color>:</b> ìDamage Over Time.î The power continues to deal damage over a period of time.
-						<br><color lightblue><b>End</color>:</b> ìEndurance.î The power affects Endurance.
+						<br><color lightblue><b>DMG</color>:</b> ‚ÄúDamage.‚Äù The power deals damage.
+						<br><color lightblue><b>DoT</color>:</b> ‚ÄúDamage Over Time.‚Äù The power continues to deal damage over a period of time.
+						<br><color lightblue><b>End</color>:</b> ‚ÄúEndurance.‚Äù The power affects Endurance.
 						<br><color lightblue><b>Foe</color>:</b> The power affects only enemies.
 						<br><color lightblue><b>Heal</color>:</b> The power provides Hit Points.
 						<br><color lightblue><b>Hold</color>:</b> Affected targets can't move or use powers.
@@ -795,12 +795,12 @@ Category Powers All
 						<br><color lightblue><b>Knockdown</color>:</b> Targets fall down and must take time to get up.
 						<br><color lightblue><b>Location</color>:</b> The power must have a target location. 
 						<br><color lightblue><b>Melee</color>:</b> The power is for use at close range (15 feet or less).
-						<br><color lightblue><b>PBAOE</color>:</b> ìPlayer based Area Of Effect.î The power does not need to be targeted. When activated, it affects everything within a certain radius of the player.
+						<br><color lightblue><b>PBAOE</color>:</b> ‚ÄúPlayer based Area Of Effect.‚Äù The power does not need to be targeted. When activated, it affects everything within a certain radius of the player.
 						<br><color lightblue><b>Ranged</color>:</b> The power can be used at a distance.
 						<br><color lightblue><b>Recharge</color>:</b> After activation, powers must recharge fully before being used again. 
 						<br><color lightblue><b>Recovery</color>:</b> The power affects the rate at which targets recover Endurance.
-						<br><color lightblue><b>RES</color>: </b>ìResistance.î The power decreases the effect of specified types of damage.
-						<br><color lightblue><b>Rez</color>:</b> ìResurrect.î The power resurrects allies.
+						<br><color lightblue><b>RES</color>: </b>‚ÄúResistance.‚Äù The power decreases the effect of specified types of damage.
+						<br><color lightblue><b>Rez</color>:</b> ‚ÄúResurrect.‚Äù The power resurrects allies.
 						<br><color lightblue><b>Self</color>: </b>The power affects only the player.
 						<br><color lightblue><b>Sleep</color>: </b>Affected targets can't move or use powers for a time. They can be awakened by successful attacks.
 						<br><color lightblue><b>Slow</color>: </b>The power decreases the recharge rate of powers.
@@ -870,31 +870,31 @@ Category Rewards All
 	{
 		Text <&<color lightblue>Enhancements</color> are items that boost one or more effects of a power (Range, Damage, etc.). 
 						<br><br>There are three types of <color lightblue>Enhancements</color>:
-						<br>1) <color lightblue>Training</color>  ñ These are the weakest form of <color lightblue>Enhancement</color> and are can be used by all origins.
-						<br>2) <color lightblue>Dual Origin</color> ñ These are more potent than <color lightblue>Training Enhancements</color>. They can be used by only two origins.
-						<br>3) <color lightblue>Single Origin</color> ñ These are the rarest and most powerful of <color lightblue>Enhancements</color>. They can only be used by a single origin.
+						<br>1) <color lightblue>Training</color>  ‚Äì These are the weakest form of <color lightblue>Enhancement</color> and are can be used by all origins.
+						<br>2) <color lightblue>Dual Origin</color> ‚Äì These are more potent than <color lightblue>Training Enhancements</color>. They can be used by only two origins.
+						<br>3) <color lightblue>Single Origin</color> ‚Äì These are the rarest and most powerful of <color lightblue>Enhancements</color>. They can only be used by a single origin.
 						<br><br><color lightblue>Enhancements</color> have levels, just like heroes. A hero's <color lightblue>Enhancements</color> need to be within a certain range of his own level to be effective. As an <color lightblue>Enhancement's</color> level becomes farther from the hero's level, its effectiveness decreases. Once a player is 4 or more levels higher than his <color lightblue>Enhancement</color>, it is no longer usable. A player can use <color lightblue>Enhancements</color> up to 3 levels above his own.
 						<br><br>Provided that the <color lightblue>Enhancement</color> can be used, a <color lightblue>Single Origin Enhancement</color> is always better than a <color lightblue>Dual Origin</color>, and a <color lightblue>Dual Origin</color> is always better than a <color lightblue>Training Enhancement</color>. This is true regardless of the <color lightblue>Enhancements'</color> levels.
 						<br><br><color lightblue>Enhancements</color> are earned by defeating villains. They can also be purchased from stores or from <color lightblue>Contacts</color>.
-						<br><br><color lightblue>Invented Enhancements</color> ñ These are a new type of enhancements built by the player at workstations located in either a <color lightblue>University</color> or within a player's Supergroup base, if they have purchased a workstation.  Invented Enhancements give a 'set bonus', which means that as the player fills the enhancements within the 'set', he receives additional bonuses.  Once the entire set is complete, all the bonuses are in place and may be enjoyed along with the benefits from other 'sets'.  These benefits are automatic as soon as the enhancement is slotted.  Invented Enhancements cannot be combined with any other types of <color lightblue>Enhancements</color>  Invented Enhancements do not expire.&>
+						<br><br><color lightblue>Invented Enhancements</color> ‚Äì These are a new type of enhancements built by the player at workstations located in either a <color lightblue>University</color> or within a player's Supergroup base, if they have purchased a workstation.  Invented Enhancements give a 'set bonus', which means that as the player fills the enhancements within the 'set', he receives additional bonuses.  Once the entire set is complete, all the bonuses are in place and may be enjoyed along with the benefits from other 'sets'.  These benefits are automatic as soon as the enhancement is slotted.  Invented Enhancements cannot be combined with any other types of <color lightblue>Enhancements</color>  Invented Enhancements do not expire.&>
 		V_Text <&<color lightblue>Enhancements</color> are items that boost one or more effects of a power (Range, Damage, etc.). 
 						<br><br>There are three types of <color lightblue>Enhancements</color>:
-						<br>1) <color lightblue>Training</color>  ñ These are the weakest form of <color lightblue>Enhancement</color> and are can be used by all origins.
-						<br>2) <color lightblue>Dual Origin</color> ñ These are more potent than <color lightblue>Training Enhancements</color>. They can be used by only two origins.
-						<br>3) <color lightblue>Single Origin</color> ñ These are the rarest and most powerful of <color lightblue>Enhancements</color>. They can only be used by a single origin.
+						<br>1) <color lightblue>Training</color>  ‚Äì These are the weakest form of <color lightblue>Enhancement</color> and are can be used by all origins.
+						<br>2) <color lightblue>Dual Origin</color> ‚Äì These are more potent than <color lightblue>Training Enhancements</color>. They can be used by only two origins.
+						<br>3) <color lightblue>Single Origin</color> ‚Äì These are the rarest and most powerful of <color lightblue>Enhancements</color>. They can only be used by a single origin.
 						<br><br><color lightblue>Enhancements</color> have levels, just like villains. A villain's <color lightblue>Enhancements</color> need to be within a certain range of his own level to be effective. As an <color lightblue>Enhancement's</color> level becomes farther from the villain's level, its effectiveness decreases. Once a player is 4 or more levels higher than his <color lightblue>Enhancement</color>, it is no longer usable. A player can use <color lightblue>Enhancements</color> up to 3 levels above his own.
 						<br><br>Provided that the <color lightblue>Enhancement</color> can be used, a <color lightblue>Single Origin Enhancement</color> is always better than a <color lightblue>Dual Origin</color>, and a <color lightblue>Dual Origin</color> is always better than a <color lightblue>Training Enhancement</color>. This is true regardless of the <color lightblue>Enhancements'</color> levels.
 						<br><br><color lightblue>Enhancements</color> are earned by defeating villains. They can also be purchased from stores or from <color lightblue>Contacts</color>.
-						<br><br><color lightblue>Invented Enhancements</color> ñ These are a new type of enhancements built by the player at workstations located in either a <color lightblue>University</color> or within a player's Supergroup base, if they have purchased a workstation.  Invented Enhancements give a 'set bonus', which means that as the player fills the enhancements within the 'set', he receives additional bonuses.  Once the entire set is complete, all the bonuses are in place and may be enjoyed along with the benefits from other 'sets'.  These benefits are automatic as soon as the enhancement is slotted.  Invented Enhancements cannot be combined with any other types of <color lightblue>Enhancements</color>  Invented Enhancements do not expire.&>
+						<br><br><color lightblue>Invented Enhancements</color> ‚Äì These are a new type of enhancements built by the player at workstations located in either a <color lightblue>University</color> or within a player's Supergroup base, if they have purchased a workstation.  Invented Enhancements give a 'set bonus', which means that as the player fills the enhancements within the 'set', he receives additional bonuses.  Once the entire set is complete, all the bonuses are in place and may be enjoyed along with the benefits from other 'sets'.  These benefits are automatic as soon as the enhancement is slotted.  Invented Enhancements cannot be combined with any other types of <color lightblue>Enhancements</color>  Invented Enhancements do not expire.&>
 		P_Text <&<color lightblue>Enhancements</color> are items that boost one or more effects of a power (Range, Damage, etc.). 
 						<br><br>There are three types of <color lightblue>Enhancements</color>:
-						<br>1) <color lightblue>Training</color>  ñ These are the weakest form of <color lightblue>Enhancement</color> and are can be used by all origins.
-						<br>2) <color lightblue>Dual Origin</color> ñ These are more potent than <color lightblue>Training Enhancements</color>. They can be used by only two origins.
-						<br>3) <color lightblue>Single Origin</color> ñ These are the rarest and most powerful of <color lightblue>Enhancements</color>. They can only be used by a single origin.
+						<br>1) <color lightblue>Training</color>  ‚Äì These are the weakest form of <color lightblue>Enhancement</color> and are can be used by all origins.
+						<br>2) <color lightblue>Dual Origin</color> ‚Äì These are more potent than <color lightblue>Training Enhancements</color>. They can be used by only two origins.
+						<br>3) <color lightblue>Single Origin</color> ‚Äì These are the rarest and most powerful of <color lightblue>Enhancements</color>. They can only be used by a single origin.
 						<br><br><color lightblue>Enhancements</color> have levels, just like players. A player's <color lightblue>Enhancements</color> need to be within a certain range of his own level to be effective. As an <color lightblue>Enhancement's</color> level becomes farther from the player's level, its effectiveness decreases. Once a player is 4 or more levels higher than his <color lightblue>Enhancement</color>, it is no longer usable. A player can use <color lightblue>Enhancements</color> up to 3 levels above his own.
 						<br><br>Provided that the <color lightblue>Enhancement</color> can be used, a <color lightblue>Single Origin Enhancement</color> is always better than a <color lightblue>Dual Origin</color>, and a <color lightblue>Dual Origin</color> is always better than a <color lightblue>Training Enhancement</color>. This is true regardless of the <color lightblue>Enhancements'</color> levels.
 						<br><br><color lightblue>Enhancements</color> are earned by defeating enemies. They can also be purchased from stores or from <color lightblue>Contacts</color>.
-						<br><br><color lightblue>Invented Enhancements</color> ñ These are a new type of enhancements built by the player at workstations located in either the <color lightblue>Cultural Direction and Education Center</color>.  Invented Enhancements give a 'set bonus', which means that as the player fills the enhancements within the 'set', he receives additional bonuses.  Once the entire set is complete, all the bonuses are in place and may be enjoyed along with the benefits from other 'sets'.  These benefits are automatic as soon as the enhancement is slotted.  Invented Enhancements cannot be combined with any other types of <color lightblue>Enhancements</color>  Invented Enhancements do not expire.&>
+						<br><br><color lightblue>Invented Enhancements</color> ‚Äì These are a new type of enhancements built by the player at workstations located in either the <color lightblue>Cultural Direction and Education Center</color>.  Invented Enhancements give a 'set bonus', which means that as the player fills the enhancements within the 'set', he receives additional bonuses.  Once the entire set is complete, all the bonuses are in place and may be enjoyed along with the benefits from other 'sets'.  These benefits are automatic as soon as the enhancement is slotted.  Invented Enhancements cannot be combined with any other types of <color lightblue>Enhancements</color>  Invented Enhancements do not expire.&>
 	}
 
 
@@ -943,13 +943,13 @@ Category Rewards All
 
 	Item Influence HeroOnly
 	{
-		Text <&<color lightblue>Influence</color> is the commodity of heroes. The more a hero does in Paragon City, the more ìpullî he's got with various people and organizations. Heroes may spend <color lightblue>Influence</color> as if it were currency.
+		Text <&<color lightblue>Influence</color> is the commodity of heroes. The more a hero does in Paragon City, the more ‚Äúpull‚Äù he's got with various people and organizations. Heroes may spend <color lightblue>Influence</color> as if it were currency.
 						<color lightblue>Influence</color> is tradable and can be lost due to <color lightblue>Defeat</color> or <color lightblue>Task</color> failure. <color lightblue>Influence</color> can be used to purchase <color lightblue>Inspirations</color> and <color lightblue>Enhancements</color> from <color lightblue>Contacts</color> or <color lightblue>Stores</color>.&>
 	}
 
 	Item Information PraetorianOnly
 	{
-		Text <&<color lightblue>Information</color> is the commodity of Praetorians. The more learned and experienced a Praetorian becomes in Praetoria, the more ìpullî he's got with various people and organizations. Praetorians may spend <color lightblue>Information</color> as if it were currency.
+		Text <&<color lightblue>Information</color> is the commodity of Praetorians. The more learned and experienced a Praetorian becomes in Praetoria, the more ‚Äúpull‚Äù he's got with various people and organizations. Praetorians may spend <color lightblue>Information</color> as if it were currency.
 						<color lightblue>Information</color> is tradable and can be lost due to <color lightblue>Defeat</color> or <color lightblue>Task</color> failure. <color lightblue>Information</color> can be used to purchase <color lightblue>Inspirations</color> and <color lightblue>Enhancements</color> from <color lightblue>Contacts</color> or <color lightblue>Stores</color>.&>
 	}
 
@@ -998,11 +998,11 @@ Category Rewards All
 	Item Titles All
 	{
 		Text <&When a hero first arrives in Paragon City, the press and the authorities tend to take their time before lavishing too much praise. But at certain points, the public deems the hero worthy of adulation and places an honorific adjective in front of the hero's name. These are called <color lightblue>Titles</color>.
-						<br><br>At first, a player has only two available <color lightblue>Titles</color> ñ 'The' and 'none.' At level 15, he can choose from a larger selection. At level 25, he can choose from a list of <color lightblue>Titles</color> specific to his origin. Whenever a player acquires a new title, he can change or remove earlier <color lightblue>Titles</color>, or he can use them all. To choose a <color lightblue>Title</color>, the hero must visit a trainer. &>
+						<br><br>At first, a player has only two available <color lightblue>Titles</color> ‚Äì 'The' and 'none.' At level 15, he can choose from a larger selection. At level 25, he can choose from a list of <color lightblue>Titles</color> specific to his origin. Whenever a player acquires a new title, he can change or remove earlier <color lightblue>Titles</color>, or he can use them all. To choose a <color lightblue>Title</color>, the hero must visit a trainer. &>
 		V_Text <&When a villain first arrives in Paragon City, the populace tends to take their time before noting your formidable presence. But at certain points, the public deems the villain worthy of notoriety and places a suitable adjective in front of the villain's name. These are called <color lightblue>Titles</color>.
-						<br><br>At first, a player has only two available <color lightblue>Titles</color> ñ 'The' and 'none.' At level 15, he can choose from a larger selection. At level 25, he can choose from a list of <color lightblue>Titles</color> specific to his origin. Whenever a player acquires a new title, he can change or remove earlier <color lightblue>Titles</color>, or he can use them all. To choose a <color lightblue>Title</color>, the villain must visit a trainer. &>
+						<br><br>At first, a player has only two available <color lightblue>Titles</color> ‚Äì 'The' and 'none.' At level 15, he can choose from a larger selection. At level 25, he can choose from a list of <color lightblue>Titles</color> specific to his origin. Whenever a player acquires a new title, he can change or remove earlier <color lightblue>Titles</color>, or he can use them all. To choose a <color lightblue>Title</color>, the villain must visit a trainer. &>
 		P_Text <&When a Praetorian first arrives in Praetoria, the press and Praetorian officials tend to take their time before lavishing too much praise. But at certain points, the public deems the Praetorian worthy of adulation and places an honorific adjective in front of his name. These are called <color lightblue>Titles</color>.
-						<br><br>At first, a player has only two available <color lightblue>Titles</color> ñ 'The' and 'none.' At level 15, he can choose from a larger selection. At level 25, he can choose from a list of <color lightblue>Titles</color> specific to his origin. Whenever a player acquires a new title, he can change or remove earlier <color lightblue>Titles</color>, or he can use them all. To choose a <color lightblue>Title</color>, the hero must visit a trainer. &>
+						<br><br>At first, a player has only two available <color lightblue>Titles</color> ‚Äì 'The' and 'none.' At level 15, he can choose from a larger selection. At level 25, he can choose from a list of <color lightblue>Titles</color> specific to his origin. Whenever a player acquires a new title, he can change or remove earlier <color lightblue>Titles</color>, or he can use them all. To choose a <color lightblue>Title</color>, the hero must visit a trainer. &>
 	}
 
 
@@ -1254,7 +1254,7 @@ Category Social All
 						<br><br>To initiate a <color lightblue>Trade</color>, a player can do one of three things: 
 						<br><br>1)<color pink>Right Click</color> on another hero and select <color blueviolet>Trade</color>. 
 						<br><br>2) Target another hero, go to the <color blueviolet>Actions Menu</color> in the <color blueviolet>Target Window</color> and select <color blueviolet>Trade</color>.
-						<br><br>3)Enter the <color blueviolet>Chat Entry Box</color> and type ì/trade PLAYERNAMEî
+						<br><br>3)Enter the <color blueviolet>Chat Entry Box</color> and type ‚Äú/trade PLAYERNAME‚Äù
 						<br><br>The other player is invited to trade. If that player accepts the invitation, the <color blueviolet>Trade Window</color> opens up for both parties. If the player rejects the invitation, the inviting player is notified.
 						<br><br>The <color blueviolet>Trade Window</color> shows the <color lightblue>Influence</color>, <color lightblue>Inspirations</color>, and <color lightblue>Enhancements</color> owned by a player. To offer items, the player <color pink>clicks</color> on each item he wishes to give. These appear on the left side of the <color blueviolet>Trade Window</color>; items offered by his trading partner appear on the right.
 						<br><br>Once a player is satisfied with the trade, he clicks the green <color blueviolet>Offer Button</color> at the top of the <color blueviolet>Trade Window</color> and waits for his trading partner to do the same. If both parties accept, the trade is immediately executed. If either party declines, the <color blueviolet>Trade Window</color> closes.&>
@@ -1270,7 +1270,7 @@ Category Social All
 						<br><br>To initiate a <color lightblue>Trade</color>, a player can do one of three things: 
 						<br><br>1)<color pink>Right Click</color> on another player and select <color blueviolet>Trade</color>. 
 						<br><br>2) Target another player, go to the <color blueviolet>Actions Menu</color> in the <color blueviolet>Target Window</color> and select <color blueviolet>Trade</color>.
-						<br><br>3)Enter the <color blueviolet>Chat Entry Box</color> and type ì/trade PLAYERNAMEî
+						<br><br>3)Enter the <color blueviolet>Chat Entry Box</color> and type ‚Äú/trade PLAYERNAME‚Äù
 						<br><br>The other player is invited to trade. If that player accepts the invitation, the <color blueviolet>Trade Window</color> opens up for both parties. If the player rejects the invitation, the inviting player is notified.
 						<br><br>The <color blueviolet>Trade Window</color> shows the <color lightblue>Information</color>, <color lightblue>Inspirations</color>, and <color lightblue>Enhancements</color> owned by a player. To offer items, the player <color pink>clicks</color> on each item he wishes to give. These appear on the left side of the <color blueviolet>Trade Window</color>; items offered by his trading partner appear on the right.
 						<br><br>Once a player is satisfied with the trade, he clicks the green <color blueviolet>Offer Button</color> at the top of the <color blueviolet>Trade Window</color> and waits for his trading partner to do the same. If both parties accept, the trade is immediately executed. If either party declines, the <color blueviolet>Trade Window</color> closes.&>
@@ -1417,7 +1417,7 @@ Category User All
 				<br><color pink>BigWave</color> - Over the head wave.
 				<br><color pink>Bow</color> - hands together in a reverent bow
 				<br><color pink>Burp</color> - burps and then wipes mouth
-				<br><color pink>Cheer</color> - chanting cheer ìGo! Go! Go!Öî
+				<br><color pink>Cheer</color> - chanting cheer ‚ÄúGo! Go! Go!‚Ä¶‚Äù
 				<br><color pink>Clap</color> - claps hands
 				<br><color pink>CoinToss</color> - flips a coin (either heads or tails)
 				<br><color pink>CrossArms</color> - crosses arms in front of you
@@ -1459,7 +1459,7 @@ Category User All
 				<br><color pink>BigWave</color> - Over the head wave.
 				<br><color pink>Bow</color> - hands together in a reverent bow
 				<br><color pink>Burp</color> - burps and then wipes mouth
-				<br><color pink>Cheer</color> - chanting cheer "Go! Go! Go!Ö"
+				<br><color pink>Cheer</color> - chanting cheer "Go! Go! Go!‚Ä¶"
 				<br><color pink>Clap</color> - claps hands
 				<br><color pink>CoinToss</color> - flips a coin (either heads or tails)
 				<br><color pink>CrossArms</color> - crosses arms in front of you
@@ -1501,7 +1501,7 @@ Category User All
 				<br><color pink>BigWave</color> - Over the head wave.
 				<br><color pink>Bow</color> - hands together in a reverent bow
 				<br><color pink>Burp</color> - burps and then wipes mouth
-				<br><color pink>Cheer</color> - chanting cheer ìGo! Go! Go!Öî
+				<br><color pink>Cheer</color> - chanting cheer ‚ÄúGo! Go! Go!‚Ä¶‚Äù
 				<br><color pink>Clap</color> - claps hands
 				<br><color pink>CoinToss</color> - flips a coin (either heads or tails)
 				<br><color pink>CrossArms</color> - crosses arms in front of you
@@ -1544,10 +1544,10 @@ Category User All
 	Item Keybinding All
 	{
 		Text <&A player can customize some default keybindings by clicking on <color blueviolet>Menu</color> in the <color blueviolet>Status Window</color>, then <color blueviolet>Options</color>. 
-					<br><br>For other commands, a player must use the command ì/bind.î /bind can be used to create new keybindings which aren't already built into the game. The general format of the command is:
+					<br><br>For other commands, a player must use the command ‚Äú/bind.‚Äù /bind can be used to create new keybindings which aren't already built into the game. The general format of the command is:
 					<br><br><color pink>/bind keyname "command"</color>
 					<br><br>Keynames are listed under <color yellow>Default Keybindings</color>.  Commands are listed under <color yellow>Slash Commands</color>. When creating a new keybinding, players should not type the <color pink>/</color> that normally precedes these commands.
-					<br><br>A player can perform multiple commands in sequence by putting ì$$î between the commands. For example:
+					<br><br>A player can perform multiple commands in sequence by putting ‚Äú$$‚Äù between the commands. For example:
 					<br><br><color pink>/bind enter "show chat $$ startchat"</color>
 					<br><br>This forces the chat window to be visible and then moves your cursor to the chat window to start chatting.
 					<br><br>Words beginning with $ are special. They are variables which are replaced. The currently supported variables are:
@@ -1576,10 +1576,10 @@ Category User All
 					<br><br><color pink>/bind P "say PULLING!$target $$ emote point"</color>
 					<br><br>If a player wants to return to the Default keybindings, he clicks on <color blueviolet>Menu</color>, then <color blueviolet>Options</color>, then <color blueviolet>Controls</color>. Finally, he clicks on <color blueviolet>Reset Keybinds</color>.&>
 		P_Text <&A player can customize some default keybindings by clicking on <color blueviolet>Menu</color> in the <color blueviolet>Status Window</color>, then <color blueviolet>Options</color>. 
-					<br><br>For other commands, a player must use the command ì/bind.î /bind can be used to create new keybindings which aren't already built into the game. The general format of the command is:
+					<br><br>For other commands, a player must use the command ‚Äú/bind.‚Äù /bind can be used to create new keybindings which aren't already built into the game. The general format of the command is:
 					<br><br><color pink>/bind keyname "command"</color>
 					<br><br>Keynames are listed under <color yellow>Default Keybindings</color>.  Commands are listed under <color yellow>Slash Commands</color>. When creating a new keybinding, players should not type the <color pink>/</color> that normally precedes these commands.
-					<br><br>A player can perform multiple commands in sequence by putting ì$$î between the commands. For example:
+					<br><br>A player can perform multiple commands in sequence by putting ‚Äú$$‚Äù between the commands. For example:
 					<br><br><color pink>/bind enter "show chat $$ startchat"</color>
 					<br><br>This forces the chat window to be visible and then moves your cursor to the chat window to start chatting.
 					<br><br>Words beginning with $ are special. They are variables which are replaced. The currently supported variables are:
@@ -2472,7 +2472,7 @@ Category "Day Jobs" All
 
 	Item "On Patrol" All
 	{
-		Text "A character is considered to be ìOn Patrolî when they log out.  The character will earn 1 bar of +50%% experience (when defeating enemies) for every 24 hours they are logged out. A player can earn up to 10 bars of +50%% experience this way. Periods of bonus experience are shown as a blue portion of your experience bar. One thing to note is that if a player has any experience debt, the debt will be removed first before any bonus experience is applied.<br><br>If your character has a number of bars of bonus experience that exceeds the number of experience bars you need to level up, then the +50%% experience bonus period will carry over to the next security/threat level."
+		Text "A character is considered to be ‚ÄúOn Patrol‚Äù when they log out.  The character will earn 1 bar of +50%% experience (when defeating enemies) for every 24 hours they are logged out. A player can earn up to 10 bars of +50%% experience this way. Periods of bonus experience are shown as a blue portion of your experience bar. One thing to note is that if a player has any experience debt, the debt will be removed first before any bonus experience is applied.<br><br>If your character has a number of bars of bonus experience that exceeds the number of experience bars you need to level up, then the +50%% experience bonus period will carry over to the next security/threat level."
 	}
 
 
@@ -2489,7 +2489,7 @@ Category "Merit Rewards" All
 
 	Item "Merit Rewards and Tasks" All
 	{
-		Text "Different tasks handle how they grant a player Merit Rewards differently.  Taskforces, Trials and Raids offer greater rewards for the time involved to complete them, but completing the same task within 24 hours will reduce the number of Merits that the task would normally grant.<br><br>Story Arcs will award the player with Merit Rewards, but they offer significantly reduced rewards for the time involved to complete them.  They, however, do not have the number of Merits awarded reduced if theyíre completed multiple times within 24 hours."
+		Text "Different tasks handle how they grant a player Merit Rewards differently.  Taskforces, Trials and Raids offer greater rewards for the time involved to complete them, but completing the same task within 24 hours will reduce the number of Merits that the task would normally grant.<br><br>Story Arcs will award the player with Merit Rewards, but they offer significantly reduced rewards for the time involved to complete them.  They, however, do not have the number of Merits awarded reduced if they‚Äôre completed multiple times within 24 hours."
 	}
 
 
