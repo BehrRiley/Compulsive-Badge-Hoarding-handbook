@@ -1,6 +1,6 @@
 # Setting up your folder
 The only file that you need to create will be located here:
-```..\City of Heroes\Data\texts\English\Menus\help.txt```
+```..\City of Heroes\data\texts\English\help\help.txt```
 
 If you are not using an English client(this may be you my baguette friends :D), you will need to use ChineseTraditional, French, German, Japanese, Korean, or uk in place of English.
 
