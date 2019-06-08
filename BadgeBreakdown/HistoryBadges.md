@@ -1,0 +1,173 @@
+# History Badges
+Academic [ H ]
+	Peregrine Island	-1904	4	-7229
+	Rikti War Zone	2002	130	-7041
+	Abandoned Sewer Network	465	-568	-1558
+Alumnus [ H ]
+	Atlas Park	-640	18	943
+	Croatoa	541	0	-1095
+	Croatoa	132	-32	-788
+	Croatoa	-1033	32	2136
+	Croatoa	-1305	0	2982
+Arachnos Rising [ V ]
+	Sharkhead Isle	762.9	32	-374
+	St. Martial	456	33.9	1230.1
+	Warburg	-1038	100	-816
+	Grandville	1724	-459	1514.6
+	Grandville	1514.6	-340	794
+Authority [ H ]
+	Talos Island	1777	22	7843
+	Independence Port	910	100	-4175
+	Independence Port	-1035	36	-2441
+	Echo: Dark Astoria	3420	46	3038
+	Terra Volta	351	196	-3605
+Digger [ H ]
+	Atlas Park	1155	47	-776
+	The Hollows	1351	11	-3065
+	The Hollows	-2250	5	-2365
+	The Hollows	1612	4	-1949
+	The Hollows	872	68	3344
+Disciple [ H ]
+	Steel Canyon	-4023	-80	-272
+	Skyway City	734	-121	-3747
+	Boomtown	-1908	130	758
+	Boomtown	-2648	5	3055
+	Boomtown	-686	272	3123
+	Faultline	-245	-43.6	-423
+	Faultline	631	-103	21
+Expert [ H ]
+	Atlas Park	631	8	961
+	Echo: Galaxy City	1160	36	-711
+	Echo: Galaxy City	413	8	890
+	Perez Park	-1277	-30	941
+Ghost Hunter [ H ]
+	Talos Island	1776	37	5179
+	Striga Isle	-271	104	-2517
+	Striga Isle	-2534	-24	-2113
+	Striga Isle	-2667	8	-414
+	Striga Isle	-3383	88	1002
+Headjuiced [ P ]
+	Nova Praetoria	-5337	17	834
+	Nova Praetoria	-3119	-76	550
+	Nova Praetoria	-3709	-7	-1769
+	Nova Praetoria	-5882	-15	-2395
+	Nova Praetoria	-4962	-15	2567
+	Imperial City	-2100	-36	-1655
+	Imperial City	-242	-47	-485
+	Imperial City	-2356	-16	-2929
+	Imperial City	590	-55	-1402
+	Imperial City	-2783	-10	3376
+	Neutropolis	1217	-56	-959
+	Neutropolis	4049	-72	-855
+	Neutropolis	3261	-60	513
+	Neutropolis	6326	-72	1073
+	Neutropolis	5811	-39	3048
+	Underground Nova	-3161	512	60
+	Underground Imperial	-1532	336	-2645
+	Underground Imperial	-819	272	-5247
+	Underground Neutropolis	-1314	-1088	-3627
+	Underground Neutropolis	-987	-1216	-2151
+Historian [ H ]
+	Talos Island	-1528	168	7554
+	Independence Port	-1080	6	2312
+	Echo: Dark Astoria	2493	92	486
+	Terra Volta	2875	100	-3972
+	Terra Volta	-636	5	-6188
+Intellectual [ H ]
+	Atlas Park	2547	5	-1182
+	Echo: Galaxy City	-520	5	-493
+	Kings Row	-57	-37	-1086
+	Kings Row	-1363	-37	688
+	Kings Row	628	-37	966
+	Perez Park	224	8	1614
+Just Said No to Superadine [ H ]
+	Steel Canyon	-1761	8	-1277
+	Steel Canyon	-2178	8	751
+	Skyway City	509	90	-5511
+	Boomtown	1140	4	-135
+	Faultline	-920	6.5	-640
+Lorekeeper [ V ]
+	Mercy Island	-902	96	-378
+	Port Oakes	-1550	35	1945
+	Cap au Diable	-1712	0	-1108
+	Sharkhead Isle	-832	0	-402
+Midnighter Archivist [ H|V ]
+	Midnighter Club	-479	-18	-228
+	Midnighter Club	-514	-18	-197
+	Midnighter Club	-379	-2	-142
+	Midnighter Club	-414	0	-228
+	Midnighter Club	-382	3	-180
+	Midnighter Club	216	1	-38
+	Midnighter Club	235	0	-100
+	Midnighter Club	255	0	-97
+	Midnighter Club	-17	-1	-106
+	Midnighter Club	-63	0	-60
+	Midnighter Club	-11	0	-33
+	Midnighter Club	-64	0	-78
+	Midnighter Club	141	0	-200
+Park Stroller [ H ]
+	Brickstown	768	0	-1532
+	Brickstown	-2368	-7	-479
+	Brickstown	-3	0	1344
+Pupil [ H ]
+	Atlas Park	511	5	-1151
+	Echo: Galaxy City	-752	5	-1550
+	Kings Row	-170	-42	-1467
+	Kings Row	-400	4	1760
+	Perez Park	-1174	-29	2252
+Researcher [ H ]
+	Talos Island	-3680	128	1519
+	Talos Island	-1147	228	5688
+	Independence Port	-1626	5	5252
+	Echo: Dark Astoria	5218	8	129
+	Echo: Dark Astoria	5888	8	1543
+	Terra Volta	2090	8	-6055
+Savant [ H ]
+	Founders' Falls	4244	3	3689
+	Crey’s Folly	7227	37	-554
+	Crey’s Folly	2566	4	2683
+	Eden	-2817	-23	2962
+	Eden	-1313	12	4486
+Scholar [ H ]
+	Steel Canyon	-4525	4	2067
+	Skyway City	-1468	24	-2346
+	Skyway City	1400	-110	-1148
+	Boomtown	-1668	0	4730
+	Faultline	865.5	30.5	-1673
+Scholastic [ H ]
+	Founders' Falls	1725	-8	2400
+	Brickstown	-229	8	-370
+	Brickstown	-3463	4	2062
+Starstruck [ P ]
+	Nova Praetoria	-5220	44	-257
+	Nova Praetoria	-4125	33	-807
+	Nova Praetoria	-3836	36	-257
+	Nova Praetoria	-5602	41	316
+	Nova Praetoria	-4133	33	296
+	Nova Praetoria	-5649	33	-843
+Student [ H ]
+	Atlas Park	-1150	-8	-172
+	Atlas Park	1330	9	418
+	Echo: Galaxy City	-1785	8	498
+	Perez Park	-2631	5	380
+	Perez Park	-1523	4	3958
+Swashbuckler [ V ]
+	Port Oakes	-3113	207	-1550
+	Bloody Bay	605	0	-150
+	Siren's Call	-942	-157	200
+	Nerva Archipelago	3795	18	7726
+Technofreak [ V ]
+	Cap au Diable	923	21	-1422
+	Cap au Diable	2345	3	1544
+	Cap au Diable	-2428	224	-932
+The Last Word [ H|V|P ]
+	First Ward	-544	35	-3405
+	First Ward	-1148	32	-3229
+	First Ward	1932	50	-2635
+	First Ward	-472	48	-2624
+	First Ward	-1090	49	-2574
+	First Ward	-1990	44	-2427
+	First Ward	-1757	24	-1007
+	First Ward	-2314	83	-274
+	First Ward	-1106	19	203
+	First Ward	2302	240	1951
